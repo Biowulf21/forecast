@@ -19,7 +19,7 @@ Forecast is a simple command-line interface (CLI) application written in Go that
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/biowulf21/forecast
+    git clone https://github.com/Biowulf21/forecast
     cd forecast
     ```
 
